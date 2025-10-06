@@ -56,18 +56,18 @@ Total - ~$68
 
 ---
 
-## 📐 Wiring (XIAO RP2040 ↔ e-Paper)  
+##  Wiring (XIAO RP2040 with e-Paper)  
 
-| e-Paper Pin | XIAO RP2040 Pin | Function        |
-|-------------|----------------|----------------|
-| **BUSY**    | D4             | Busy signal    |
-| **RST**     | D5             | Reset          |
-| **DC**      | D6             | Data/Command   |
-| **CS**      | D7             | Chip Select    |
-| **CLK (SCK)** | D8           | SPI Clock      |
-| **DIN (MOSI)** | D10         | SPI Data       |
-| **VCC**     | 3.3V           | Power          |
-| **GND**     | GND            | Ground         |
+e-Paper Pin - XIAO RP2040 Pin - Function        
+
+ **BUSY**   -  D4        -      Busy signal    
+ **RST**    -  D5        -      Reset          
+ **DC**     -  D6        -      Data/Command   
+ **CS**     -  D7        -      Chip Select    
+ **CLK (SCK)** - D8      -      SPI Clock      
+ **DIN (MOSI)** - D10    -      SPI Data       
+ **VCC**   -   3.3V      -      Power          
+ **GND**   -   GND       -      Ground         
 
 ---
 
