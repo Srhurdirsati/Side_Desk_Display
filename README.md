@@ -42,7 +42,7 @@ Think of it as a **minimalist smart desk clock*(  that never distracts, looks aw
 
 ##  Hardware CmPonents 
 
-- [Seeed Studio XIAO RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/)- By HQ
+- [Seeed Studio XIAO RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/)- By ~$6
 
 - [4.2″ Black & White e-Paper Display (SSD1683)](https://robu.in/product/4-2-inch-high-refresh-rate-black-and-white-e-paper-display/) - $28.38
   
@@ -51,7 +51,7 @@ Think of it as a **minimalist smart desk clock*(  that never distracts, looks aw
 - PCB - JLCPCB - $34 
 
 ```
-Total - ~$68
+Total - ~$74
 ```
 
 ---
