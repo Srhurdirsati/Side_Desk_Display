@@ -8,10 +8,15 @@
 
 ## 10/6/2025 - Completed My Side Desk Display 😁  
 
+
 This is my frst hardware project on HackClub , I'm new to all this work and got the idea to make this by ChatGPT , i started this project on 3rd October and ended on 5th October. I didn't knew abt blueprint then so i didn't made any sort of journal entry here and this is my last entry . As i'm new to pcb designing and CAD so this project took lot of efforts and also it was amazing experience . 😃![Capture.PNG](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzkzLCJwdXIiOiJibG9iX2lkIn19--adc05a610ff47f45f1e6beeb5dfe381d23b7fac7/Capture.PNG)
   
 
 ## 10/24/2025 10:41 PM - Planning And BOM   
+
+I thought of begginning with the planning first , i spent my first 4 hours to gather components and make a rough connection diagram in my notebook before in software . I decided to use XIAO RP2040 as this is small and best for this one , enough GPIOs and fast speed . A waveshare 4.2 inch black and white display would be best so I chose that
+
+Then i proceeded to spend my today's last 2 hours on schematic designing online on software and successfully completed it .
 
 This was my frst day i got into work on this project , i spent some time enquiring chatgpt for ideas and i got one , it also helped my make a perfect bom . All the rest work was done by me . The firststep was plannign which i done in like 2-3 hours![BOM.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bfb48e14e0374ddfd105f9c9f7427701f343a1f2/BOM.PNG)
   
