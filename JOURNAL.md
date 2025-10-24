@@ -23,3 +23,11 @@ The next day i.e. 4th October was a lot time taking , that day i did all the sch
 ![486140089-fb1eaa44-eb1b-46af-bc9f-798ab3d2fa82.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5e61b34e638bfdda616210609d03a9b111fa89f2/486140089-fb1eaa44-eb1b-46af-bc9f-798ab3d2fa82.png)
   
 
+## 10/24/2025 11 PM - THE CAD WORK AND THE CODE 😎  
+
+The next day 5th October , i planned to do the CAD work and for a veryy much beginner like me , it was like pathetic , i wasn't able to even make a rect in 3d , still i watched tutorials and makde it so no pain no gain .... Now the CAD was finished same day after a long long time of CAD . I have a lil experience in CODE so it was done quickly and i was good to go then . All done in 2 Days . 😁![486141069-6e78ad2e-aa5f-498a-a266-02564eb537b9.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--78d1509ba64bc74c96bad50d93fce61a631520c2/486141069-6e78ad2e-aa5f-498a-a266-02564eb537b9.png)
+![486140643-c31b01fb-e424-47e7-a4ba-a780cd50f649.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--548e2a28d49f3de25ff4e978fffe7fb3164c3793/486140643-c31b01fb-e424-47e7-a4ba-a780cd50f649.png)
+![486140727-2647cae9-ab1b-44bb-9bbc-3cbb62ad3afd.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3MywicHVyIjoiYmxvYl9pZCJ9fQ==--4b87c9a3cb8b8cb50e769a5bc93246484a7bd358/486140727-2647cae9-ab1b-44bb-9bbc-3cbb62ad3afd.png)
+![486140770-617945bf-d291-4132-830d-dbc3be3cc653.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c4833b5f3960265b7d0488b16f8e43de699d4b62/486140770-617945bf-d291-4132-830d-dbc3be3cc653.png)
+  
+
