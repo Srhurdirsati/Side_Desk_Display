@@ -1,5 +1,0 @@
-ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,Contributor,JLCPCB Part Class,link
-1,FPC-05F-28PH20,"FPC1,FPC2",FPC-SMD_28P-P0.50_FPC-05F-28PH20,2,FPC-05F-28PH20,XUNPU(讯普),LCSC,C2856807,0.122,30,LCSC,Extended Part,
-2,1kΩ,R1,R0603,1,0603WAF1001T5E,UNI-ROYAL(厚声),LCSC,C21190,0.001,2,,Basic Part,
-3,Seeed XIAO RP2040,U1,SEEED XIAO RP2040,1,Seeed XIAO RP2040(,,,,,20,mikhail_k,,https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html
-4,SML-D12M1WT86,U2,LED0603-RD_GREEN,1,SML-D12M1WT86,ROHM(罗姆),LCSC,C2922668,0.059,2,lcsc,Extended Part,
