@@ -8,41 +8,32 @@
 
 ## 10/6/2025 - Completed My Side Desk Display 😁  
 
-
 This is my frst hardware project on HackClub , I'm new to all this work and got the idea to make this by ChatGPT , i started this project on 3rd October and ended on 5th October. I didn't knew abt blueprint then so i didn't made any sort of journal entry here and this is my last entry . As i'm new to pcb designing and CAD so this project took lot of efforts and also it was amazing experience . 😃![Capture.PNG](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzkzLCJwdXIiOiJibG9iX2lkIn19--adc05a610ff47f45f1e6beeb5dfe381d23b7fac7/Capture.PNG)
   
 
 ## 10/24/2025 10:41 PM - Planning And BOM   
-
-I thought of begginning with the planning first , i spent my first 4 hours to gather components and make a rough connection diagram in my notebook before in software . I decided to use XIAO RP2040 as this is small and best for this one , enough GPIOs and fast speed . A waveshare 4.2 inch black and white display would be best so I chose that
-
-Then i proceeded to spend my today's last 2 hours on schematic designing online on software and successfully completed it .
-
-This was a new thing for me which made me learn new things about hardware [ CAD and PCB ]
 
 This was my frst day i got into work on this project , i spent some time enquiring chatgpt for ideas and i got one , it also helped my make a perfect bom . All the rest work was done by me . The firststep was plannign which i done in like 2-3 hours![BOM.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bfb48e14e0374ddfd105f9c9f7427701f343a1f2/BOM.PNG)
   
 
 ## 10/24/2025 10:44 PM - Designing The Schematic   
 
-The next day i.e. 4th October was a lot time taking , that day i did all the schematic and routing of the PCB and finished the PCB work , it was quite easy though took time due to my potato pc . Also i got some time to make the GitHub so also did that the same day . It was my frst project so it took a way too much time and i was frustrated but at last completed the PCB 
-
-I thought this work would be tough for a guy who never did all this but it was buttery smooth and especially my dedication helped me a lot
-
-![486140310-4fa1b555-9b31-456c-961b-bd571af451a6.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2NywicHVyIjoiYmxvYl9pZCJ9fQ==--8299a0299a53de8b138dda4ca8a3aac0e4876053/486140310-4fa1b555-9b31-456c-961b-bd571af451a6.png)
+The next day i.e. 4th October was a lot time taking , that day i did all the schematic and routing of the PCB and finished the PCB work , it was quite easy though took time due to my potato pc . Also i got some time to make the GitHub so also did that the same day . It was my frst project so it took a way too much time and i was frustrated but at last completed the PCB  ![486140310-4fa1b555-9b31-456c-961b-bd571af451a6.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2NywicHVyIjoiYmxvYl9pZCJ9fQ==--8299a0299a53de8b138dda4ca8a3aac0e4876053/486140310-4fa1b555-9b31-456c-961b-bd571af451a6.png)
 ![486140184-c60cccf2-c7af-40dc-b9fe-439d4aac0d9f.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--cd48a540530f1b8481e8631874cfd48638944689/486140184-c60cccf2-c7af-40dc-b9fe-439d4aac0d9f.png)
 ![486140089-fb1eaa44-eb1b-46af-bc9f-798ab3d2fa82.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5e61b34e638bfdda616210609d03a9b111fa89f2/486140089-fb1eaa44-eb1b-46af-bc9f-798ab3d2fa82.png)
   
 
 ## 10/24/2025 11 PM - THE CAD WORK AND THE CODE 😎  
 
-The next day 5th October , i planned to do the CAD work and for a veryy much beginner like me , it was like pathetic , i wasn't able to even make a rect in 3d , still i watched tutorials and makde it so no pain no gain .... Now the CAD was finished same day after a long long time of CAD . I have a lil experience in CODE so it was done quickly and i was good to go then . All done in 2 Days .
-
-This was not much diff as it seemed still i watched a lot of vdos of tutorials on yt which helped me a lot
-
-😁![486141069-6e78ad2e-aa5f-498a-a266-02564eb537b9.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--78d1509ba64bc74c96bad50d93fce61a631520c2/486141069-6e78ad2e-aa5f-498a-a266-02564eb537b9.png)
+The next day 5th October , i planned to do the CAD work and for a veryy much beginner like me , it was like pathetic , i wasn't able to even make a rect in 3d , still i watched tutorials and makde it so no pain no gain .... Now the CAD was finished same day after a long long time of CAD . I have a lil experience in CODE so it was done quickly and i was good to go then . All done in 2 Days . 😁![486141069-6e78ad2e-aa5f-498a-a266-02564eb537b9.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--78d1509ba64bc74c96bad50d93fce61a631520c2/486141069-6e78ad2e-aa5f-498a-a266-02564eb537b9.png)
 ![486140643-c31b01fb-e424-47e7-a4ba-a780cd50f649.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--548e2a28d49f3de25ff4e978fffe7fb3164c3793/486140643-c31b01fb-e424-47e7-a4ba-a780cd50f649.png)
 ![486140727-2647cae9-ab1b-44bb-9bbc-3cbb62ad3afd.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3MywicHVyIjoiYmxvYl9pZCJ9fQ==--4b87c9a3cb8b8cb50e769a5bc93246484a7bd358/486140727-2647cae9-ab1b-44bb-9bbc-3cbb62ad3afd.png)
 ![486140770-617945bf-d291-4132-830d-dbc3be3cc653.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c4833b5f3960265b7d0488b16f8e43de699d4b62/486140770-617945bf-d291-4132-830d-dbc3be3cc653.png)
   
+
+## 11/2/2025 - Finished The Errors Commented  
+
+![capture](https://image2url.com/images/1762094471860-cbff9957-f7ff-4a20-8731-35de0fcfc643.png)
+
+Done everything , every comments i got have been fixed also i think no need to make the assembly to get approved as i was rejected for it because i dont know how to do that and that isn't necessary . I tried to decrease as much price as i could but this was the most i can do , its of like 74$ with shipping but ill pay any proice above $50 at which i am quoting and rest will me my responsibility . I think thias was the last update , no further improvements i hope .  
 
