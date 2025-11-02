@@ -51,7 +51,7 @@ Think of it as a **minimalist smart desk clock*(  that never distracts, looks aw
 - PCB - JLCPCB - $34 
 
 ```
-Total - ~$74 - 20 dollars if i get the pcb from my local manufacturer instead of JLCPCB
+Total - ~$74 - but i'll qoute this as $50 On Blueprint ans rest 25 will be paid by me
 ```
 
 ---
